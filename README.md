@@ -29,7 +29,7 @@ I am an IT Infrastructure and Cybersecurity Analyst, passionate about technology
 ### 📡 Contact and Social Networks
 <div>
   <a href="https://www.linkedin.com/in/victorvernier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:seu-email@protonmail.com"><img src="https://img.shields.io/badge/-ProtonMail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:victorvernier@proton.me"><img src="https://img.shields.io/badge/-ProtonMail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/kinder_rk" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://steamcommunity.com/id/84576485679467y973645345" target="_blank">
