@@ -1,4 +1,4 @@
-## ARISE! 🚀
+## ARISE! 🐺
 
 I am an IT Infrastructure and Cybersecurity Analyst, passionate about technology, automation, and information security. Currently, I work in the management and support of computing systems, IT infrastructure, and digital security!
 
