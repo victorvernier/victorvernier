@@ -1,7 +1,7 @@
 ## ARISE! 🐺
 <!Title. -->
 
-I am an IT Infrastructure and Cybersecurity Analyst, passionate about technology, automation, and information security. Currently, I work in the management and support of computing systems, IT infrastructure, and digital security!
+I am an IT Infrastructure and Cybersecurity Analyst, automation script developer, technology content creator, with a focus on the management and support of computing systems, IT infrastructure, and digital security, as well as an astrophysics student.
 <!-- Personal introduction text. -->
 
 ---
