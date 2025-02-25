@@ -28,7 +28,7 @@ I am an IT Infrastructure and Cybersecurity Analyst, automation script developer
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <!-- LinkedIn badge. -->
-  <a href="mailto:seu-email@protonmail.com">
+  <a href="mailto:victorvernier@proton.me">
     <img src="https://img.shields.io/badge/-ProtonMail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
   </a>
   <!-- ProtonMail badge. -->
