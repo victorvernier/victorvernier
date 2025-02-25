@@ -2,13 +2,6 @@
 
 I am an IT Infrastructure and Cybersecurity Analyst, passionate about technology, automation, and information security. Currently, I work in the management and support of computing systems, IT infrastructure, and digital security!
 
-### 🔍 About me
-- 🎓 **Graduated in** Computer Science and post-graduated in **Information Security**;
-- 📖 **Currently studying** Artificial Intelligence and new approaches to digital security;
-- 💼 Working with **IT infrastructure, automation, and security**;
-- 🎮 Passionate about **RPGs, FPS, and geek culture**;
-- 🛸 Fascinated by **astrophysics and space exploration**.
-
 ---
 
 ### ⚙️ Technologies and Tools
