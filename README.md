@@ -14,11 +14,6 @@ I am an IT Infrastructure and Cybersecurity Analyst, passionate about technology
 
 ---
 
-### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorvernier)](https://github.com/victorvernier/github-readme-stats)
-
----
-
 ### 📡 Contact and Social Networks
 <div>
   <a href="https://www.linkedin.com/in/victorvernier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -30,5 +25,3 @@ I am an IT Infrastructure and Cybersecurity Analyst, passionate about technology
 </div>
 
 ---
-
-> "Technology moves the world. Security keeps it protected." 🔒
