@@ -23,8 +23,6 @@ I am an IT Infrastructure and Cybersecurity Analyst, automation script developer
   <!-- Cloudflare icon. -->
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <!-- Docker icon. -->
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <!-- Figma icon. -->
 </div>
 
 ---
