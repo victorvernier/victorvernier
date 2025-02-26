@@ -1,4 +1,4 @@
-## ARISE! 🐺
+## ARISE! ☕ 
 <!Title. -->
 
 I am an IT Infrastructure and Cybersecurity Analyst, automation script developer, technology content creator, with a focus on the management and support of computing systems, IT infrastructure, and digital security, as well as an astrophysics student.
@@ -6,8 +6,6 @@ I am an IT Infrastructure and Cybersecurity Analyst, automation script developer
 
 ---
 
-### ⚙️ Technologies and Tools
-<!-- Section to showcase the technologies and tools. -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <!-- Linux icon. -->
