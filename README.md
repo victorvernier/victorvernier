@@ -17,6 +17,9 @@ I am an IT Infrastructure and Cybersecurity Analyst, automation script developer
   <!-- Linux icon. -->
   <img align="center" alt="Powershell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
   <!-- PowerShell icon. -->
+  <img align="center" alt="Perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
+<!-- Perl icon. -->
+
 </div>
 
 ---
