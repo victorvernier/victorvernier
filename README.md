@@ -29,8 +29,6 @@ I am an IT Infrastructure and Cybersecurity Analyst, automation script developer
   <!-- Fedora icon. -->
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <!-- Figma icon. -->
-  <img align="center" alt="Firefox" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg">
-  <!-- Firefox icon. -->
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <!-- GitHub icon. -->
   <img align="center" alt="Harvester" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/harvester/harvester-original.svg">
