@@ -21,9 +21,24 @@ I am an IT Infrastructure and Cybersecurity Analyst, automation script developer
   <!-- Perl icon. -->
   <img align="center" alt="Cloudflare" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg">
   <!-- Cloudflare icon. -->
-  <img align="center" alt="Cloudflare Workers" height="30" width="40" src="https://workers.cloudflare.com/resources/logo/logo.svg">
-  <!-- Cloudflare Workers icon. -->
-
+  <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+  <!-- Debian icon. -->
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <!-- Docker icon. -->
+  <img align="center" alt="Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
+  <!-- Fedora icon. -->
+  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <!-- Figma icon. -->
+  <img align="center" alt="Firefox" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg">
+  <!-- Firefox icon. -->
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <!-- GitHub icon. -->
+  <img align="center" alt="Harvester" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/harvester/harvester-original.svg">
+  <!-- Harvester icon. -->
+  <img align="center" alt="PuTTY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
+  <!-- PuTTY icon. -->
+  <img align="center" alt="Red Hat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg">
+  <!-- Red Hat icon. -->
 </div>
 
 ---
