@@ -1,7 +1,7 @@
 ## ARISE! ☕ 
 <!Title. -->
 
-I am an IT Infrastructure and Cybersecurity Analyst, automation script developer, technology content creator, with a focus on the management and support of computing systems, IT infrastructure, and digital security, as well as an astrophysics student.
+I am an IT Infrastructure and Cybersecurity Analyst, automation script developer, and technology content creator specializing in the management and support of computing systems, IT infrastructure, and digital security. Additionally, I am an astrophysics student.
 <!-- Personal introduction text. -->
 
 ---
