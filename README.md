@@ -21,6 +21,8 @@ I am an IT Infrastructure and Cybersecurity Analyst, automation script developer
   <!-- Perl icon. -->
   <img align="center" alt="Cloudflare" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg">
   <!-- Cloudflare icon. -->
+  <img align="center" alt="Cloudflare Workers" height="30" width="40" src="https://workers.cloudflare.com/resources/logo/logo.svg">
+  <!-- Cloudflare Workers icon. -->
 
 </div>
 
