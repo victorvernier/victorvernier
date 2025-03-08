@@ -1,9 +1,6 @@
 ## ARISE! ☕ 
 <!Title. -->
 
-I am an IT Infrastructure and Cybersecurity Analyst, automation script developer, and technology content creator, specializing in computing systems management, IT infrastructure, and digital security. Additionally, I am an astrophysics student.
-<!-- Personal introduction text. -->
-
 ---
 
 <div style="display: inline_block"><br>
