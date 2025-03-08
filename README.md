@@ -2,7 +2,6 @@
 <!Title. -->
 
 ---
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <!-- Linux icon. -->
@@ -21,7 +20,6 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <!-- Docker icon. -->
 </div>
-
 ---
 
 ### 📡 Contact and Social Networks
