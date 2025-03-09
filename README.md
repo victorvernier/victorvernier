@@ -32,34 +32,34 @@
 
 ### 📡 Contact and Social Networks
 
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
   <a href="https://www.linkedin.com/in/victorvernier/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="mailto:victorvernier@protonmail.com">
-    <img src="https://img.shields.io/badge/-ProtonMail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
-  </a>
-
-  <a href="https://www.instagram.com/kinder_rk" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://steamcommunity.com/id/84576485679467y973645345" target="_blank">
-    <img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a>
-
-  <a href="https://discord.gg/9GRwABDn8h" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ProtonMail-%23333?style=for-the-badge&logo=protonmail&logoColor=white">
   </a>
 
   <a href="https://github.com/victorvernier" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/kinder_rk" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
   <a href="https://t.me/kinder_rk" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+
+  <a href="https://discord.gg/9GRwABDn8h" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="https://steamcommunity.com/id/84576485679467y973645345" target="_blank">
+    <img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white">
   </a>
 
 </div>
