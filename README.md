@@ -45,9 +45,12 @@
   <!-- Steam badge. -->
   <a href="https://discord.gg/9GRwABDn8h" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<!-- Discord badge. -->
-
+  </a>
+  <!-- Discord badge. -->
+  <a href="https://github.com/victorvernier" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- GitHub badge. -->
 </div>
 
 ---
