@@ -20,6 +20,10 @@
   <!-- Cloudflare icon. -->
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <!-- Docker icon. -->
+<a href="https://t.me/kinder_rk" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<!-- Telegram badge. -->
 </div>
 
 ---
