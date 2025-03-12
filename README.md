@@ -1,6 +1,9 @@
 ## ARISE! ☕ 
 <!Title. -->
 
+**"Somewhere, something incredible is waiting to be known."**
+*- Carl Sagan*
+
 ---
 
 <div style="display: inline-block;"><br>
