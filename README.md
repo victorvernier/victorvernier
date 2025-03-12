@@ -69,7 +69,7 @@
 
 ---
 
-☄️ Quando não estou mergulhado em códigos, estou estudando astrofísica ou jogando RPGs épicos!
+☄️ When I'm not immersed in code, I'm studying astrophysics or playing epic RPGs!
 
 ---
 
