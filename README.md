@@ -69,10 +69,6 @@
 
 ---
 
-☄️ When I'm not immersed in code, I'm studying astrophysics or playing epic RPGs!
-
----
-
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorvernier/victorvernier/output/github-contribution-grid-snake-dark.svg">
