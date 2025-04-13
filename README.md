@@ -1,4 +1,4 @@
-## 🐺 ARISE! ☕ 
+## Hi, I'm an independent security researcher 🐺☕
 <!Title. -->
 
 **"Somewhere, something incredible is waiting to be known."**             
