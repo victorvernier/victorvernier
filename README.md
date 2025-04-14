@@ -29,34 +29,6 @@
 
 ---
 
-### 📡 Contact and Social Networks
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
-  <a href="https://www.linkedin.com/in/victorvernier/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:victorvernier@protonmail.com">
-    <img src="https://img.shields.io/badge/-ProtonMail-%23333?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
-  </a>
-  <a href="https://github.com/victorvernier" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.instagram.com/kinder_rk" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://t.me/kinder_rk" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://discord.gg/9GRwABDn8h" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://steamcommunity.com/id/84576485679467y973645345" target="_blank">
-    <img src="https://img.shields.io/badge/-Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-    </a>
-</div>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorvernier/victorvernier/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorvernier/victorvernier/output/github-contribution-grid-snake.svg">
